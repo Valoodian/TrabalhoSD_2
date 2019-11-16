@@ -9,7 +9,7 @@ import java.rmi.NotBoundException;
 public class RMIClient {
     public static void main(String[] args) {
         PlacesListInterface l1 = null;
-        //olaaa
+        //olaaajjjjj
 
         try{
             Thread t = new Thread() {
